@@ -1,0 +1,1 @@
+{ "name": "Settings", "run": "/nimbus/apps/settings/main.lua" }

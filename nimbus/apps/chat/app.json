@@ -1,0 +1,1 @@
+{ "name": "Chat", "run": "/nimbus/apps/chat/main.lua" }

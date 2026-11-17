@@ -1,0 +1,1 @@
+{ "name": "Tasks", "run": "/nimbus/apps/taskmgr/main.lua" }

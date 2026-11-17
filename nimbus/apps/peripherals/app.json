@@ -1,0 +1,1 @@
+{ "name": "Peripherals", "run": "/nimbus/apps/peripherals/main.lua" }

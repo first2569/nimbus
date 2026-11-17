@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "id": "dice",
+      "name": "Dice",
+      "version": "1.0",
+      "description": "Roll two dice.",
+      "main": "main.lua",
+      "files": ["main.lua"]
+    }
+  ]
+}
